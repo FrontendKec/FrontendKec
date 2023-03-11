@@ -30,7 +30,7 @@
 </p>
 <p align="center">
    <a>
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrontendKec&theme=dracula&layout=compact&langs_count=6&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrontendKec&theme=dracula&layout=compact&langs_count=2&hide_border=true" />
   </a>
 </p>
  

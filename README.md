@@ -19,6 +19,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353925/javascript.svg"  alt="javascript" width="38" /></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="40"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/374175/vue.svg" alt="vue" width="40"/> </a>
 </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My Stats:**
@@ -30,7 +31,7 @@
 </p>
 <p align="center">
    <a>
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrontendKec&theme=dracula&layout=compact&langs_count=2&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FrontendKec&theme=dracula&layout=compact&langs_count=4&hide_border=true" />
   </a>
 </p>
  
